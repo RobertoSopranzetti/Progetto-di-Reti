@@ -21,7 +21,7 @@ def ServerList():
     list = os.listdir(SERVER_PATH)
     listC = str(list).encode()
     send = sock.sendto(listC,address)
-    print("Error message sent to %s with %s bytes" % (address,send))
+    print("List message sent to %s with %s bytes" % (address,send))
     
 
 def serverExit():
