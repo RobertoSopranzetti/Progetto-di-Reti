@@ -1,2 +1,2 @@
 # Progetto-di-Reti
-Schema CLIENT-SERVER UDP per trasferimento file
+CLIENT-SERVER UDP scheme for transferring files
